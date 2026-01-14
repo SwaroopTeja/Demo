@@ -20,3 +20,17 @@ Git Commands:
 4. git commit-m 
 
 5. git push origin main : upload local repo content to remote repo
+
+#creating new repo
+
+1. git init - used to create a new git repo in local 
+
+2. git remote add origin <link> - to remotely connect to the git repo
+
+3. git remote -v - to verify remote 
+
+4. git branch - to check the branch
+
+5. git branch -M main - to rename branch
+
+6. git push origin main 
